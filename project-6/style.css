@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+body{ 
+    background: Maroon;
+}
+header{
+    height: 110vh;
+    background-image: url(images/bg_main.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#g{
+    background-color: DarkGoldenRod;
+    border-radius: 20px;
+}
+.nav-link {
+    color: white !important;
+}
+#rr img{
+border: 10px solid goldenrod;
+}
+#rr h1{
+    color: goldenrod;
+    text-decoration: underline white;
+}
